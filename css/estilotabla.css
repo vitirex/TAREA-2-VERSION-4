@@ -1,0 +1,47 @@
+h1 {
+	text-align:center;
+}
+img {
+	text-align:center;
+	padding-right:10px;
+	width:110px;
+	height:110px;
+}
+.primera {
+	text-align:center;
+	background:violet;
+	font:arial;
+	color:white;
+}
+#prim {
+	text-align:center;
+	color:grey;
+	background-color:#660033;
+	font-size:1.5em;
+}
+#colorin {
+	background-color:black;
+	color:violet;
+}
+#listas ul {
+	color:green;
+}
+#quince {
+	padding-top:50px;
+	padding-bottom:50px;
+	background-color:#00661A;
+}
+table,th,td {
+	border-collapse:collapse;
+	border:1px solid white;
+	margin:0px auto;
+	width:50%;
+}
+#blc{
+	background-color:green;
+	text-align:center;
+}
+#list{
+	background-color:black;
+	color:green;
+}
